@@ -1,0 +1,8 @@
+print("the    1138")
+print("and    965")
+print("to     754")
+print("of     669")
+print("you    550")
+print("a      542")
+print("i      542")
+print("a      514")
